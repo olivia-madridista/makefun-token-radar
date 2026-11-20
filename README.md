@@ -1,8 +1,8 @@
 # Token Radar
 
-[![make.fun](https://make.fun/badge/competition/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
-[![make.fun](https://make.fun/badge/entrant/steady-lynx-39.svg)](https://make.fun/u/steady-lynx-39)
-[![make.fun](https://make.fun/badge/bounty/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/olivia-madridista/makefun-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/olivia-madridista/makefun-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 **Token Radar** ranks pre-token protocols by implied value, so a farmer can see which
 protocol is worth farming next — and exactly what to do about it.
